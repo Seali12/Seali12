@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m Lisandro Bachur
 - 💼 I'm a Software developer at the ministry of defense
-- 💬 I am currently working at the Argentine Ministry of Defense and at a dealership doing automation
+- 💬 I am currently working at the Redoo doing automation
 - 👯 I’m looking to collaborate on backend/AI software engineering projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
